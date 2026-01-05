@@ -1,5 +1,5 @@
-🌟 VisiAura Pro - Creative Visual Platform
-VisiAura Pro adalah platform inspirasi visual modern yang mengusung estetika ala Pinterest dengan teknologi AI. Aplikasi ini dirancang untuk memberikan pengalaman visual yang halus, dan interaktif bagi para kreator dan pencari inspirasi.
+🌟 VisiAura Pro AI
+VisiAura Pro adalah platform inspirasi visual modern yang mengusung hampir serupa estetika ala Pinterest dengan teknologi AI. Aplikasi ini dirancang untuk memberikan pengalaman visual yang halus, dan interaktif bagi para kreator dan pencari inspirasi.
 
 ✨ Fitur Utama
 Pinterest-Style Masonry Grid: Tata letak grid dinamis yang memuat lebih dari 50+ aset visual secara otomatis dengan efek transisi yang premium.
