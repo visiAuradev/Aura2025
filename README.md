@@ -1,4 +1,4 @@
-🌟 VisiAura Pro AI
+🌟 VisiAura Pro AI:
 VisiAura Pro adalah platform inspirasi visual modern yang mengusung hampir serupa estetika ala Pinterest dengan teknologi AI. Aplikasi ini dirancang untuk memberikan pengalaman visual yang halus, dan interaktif bagi para kreator dan pencari inspirasi.
 
 ✨ Fitur Utama
