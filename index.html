@@ -10,9 +10,9 @@
     
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
-    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-app-compat.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-auth-compat.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-firestore-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.20.0/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.20.0/firebase-auth-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.20.0/firebase-firestore-compat.js"></script>
 
     <script>
         tailwind.config = {
@@ -251,9 +251,9 @@
                             </form>
                         </div>
                     </div>
-                        </div>
+               </div>
 
-                <div id="view-profile" class="hidden max-w-4xl mx-auto p-6">
+              <div id="view-profile" class="hidden max-w-4xl mx-auto p-6">
                     <div class="flex flex-col md:flex-row items-center gap-6 mb-8">
                         <div class="w-32 h-32 rounded-full bg-gray-300 overflow-hidden shadow-lg">
                             <img id="profile-img" src="" class="w-full h-full object-cover">
@@ -343,8 +343,7 @@
                 projectId: "visiaura-87251",
                 storageBucket: "visiaura-87251.firebasestorage.app",
                 messagingSenderId: "999783403118",
-               appId: "1:999783403118:web:0a6f1d911cb42cdfeaa07f",
-                measurementId: "G-2V68QWG40H"
+                appId: "1:999783403118:web:0a6f1d911cb42cdfeaa07f",
             },
             openai: "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", 
             groq: "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"
@@ -453,7 +452,7 @@
             if(t) t.classList.remove('hidden');
         }
 
-        function updateProfileUI() {
+      function updateProfileUI() {
             if(store.user) {
                 document.querySelectorAll('#mobile-avatar, #nav-avatar, #profile-img, #sidebar-avatar').forEach(el => el.src = store.user.photo);
                 document.getElementById('profile-name').innerText = store.user.name;
